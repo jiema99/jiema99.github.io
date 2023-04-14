@@ -4,15 +4,15 @@ SEOTitle: 马杰的博客
 header-img: img/post-bg-index.jpg
 email: jie_ma@zjnu.edu.cn
 description: "Every failure is leading towards success."
-keyword: "马杰的博客, Jie Ma, 马杰, Python, Machine Learning"
+keyword: "马杰的博客, Jie Ma, 马杰, Python, Machine Learning, Deep Learning"
 url: "https://jiema99.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jiema99/jiema99.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "好好学习、天天向上！"
+sidebar-avatar: /img/IMG_3031.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
